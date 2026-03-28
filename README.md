@@ -10,6 +10,8 @@ Refazendo um trabalho da faculdade da disciplina de Inteligencia Artificial, com
 * Categories Classification - Filtragem e simplificação dos generos de livros no database, usando LLM para fazer a classificação de texto. ✅
 * Sentiment Analysis - Usando a descrição dos livros, o sistema classifica os tipos de emoções que o livro passa analisando o texto das descrições e devolve as recomendações com maior propabilidade de passar a emoção filtrada ✅
 
+* Dashboard 👷🏽‍♀️🚧
+
 
 ## ⭐Instruções de uso:
 
